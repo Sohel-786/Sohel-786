@@ -28,9 +28,9 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 
 ## GitHub Analytics
-<div style="display:flex;">
+<div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="40%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sohel-786&theme=vision-friendly-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sohel-786&theme=vision-friendly-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="58%"/>
  </div>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
