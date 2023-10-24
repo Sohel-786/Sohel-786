@@ -7,13 +7,6 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shaikhsohel.netlify.app)
 
-
-<h2 align="left">Let's Connect</h2>
-<p align="left">
-<a align="center" href="https://www.linkedin.com/in/sohel-shaikh-8ba7a9110/" target="_blank"><img align='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohelshaikh-connect" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a align="center" href="mailto:sohel.shaikh27100@gmail.com" target="_blank"><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="sohelshaikh-connect" height="50" width="50"/></a>
-</p>
-
 <h2 align="left">Tech Stack</h2>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
