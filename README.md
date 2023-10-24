@@ -10,7 +10,7 @@
 
 <h2 align="left">Let's Connect</h2>
 <p align="left" justify="center">
-<a href="https://www.linkedin.com/in/sohel-shaikh-8ba7a9110/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohelshaikh-connect" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/sohel-shaikh-8ba7a9110/" target="_blank"><img align='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohelshaikh-connect" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="mailto:sohel.shaikh27100@gmail.com" target="_blank"><img align='center' src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="sohelshaikh-connect" height="50" width="50"/></a>
 </p>
 
