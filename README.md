@@ -18,7 +18,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 
 ## GitHub Analytics
 <div>
