@@ -1,5 +1,5 @@
-<h1 align="center">Hi There 👋, I'm Bicky Dutta</h1>
-<h3 align="center">I'm Sohel Shaikh and I'm Full Stack Web Developer, a passionate coder, and capable of writing efficient code using MERN Stack.</h3>
+<h1 align="center">Hi There 👋, I'm Sohel Shaikh</h1>
+<h3 align="center">I'm Full Stack Web Developer, a passionate coder, and capable of writing efficient code using MERN Stack.</h3>
 
 <!-- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() -->
