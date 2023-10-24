@@ -23,7 +23,7 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 <h2 align="left">👷 Stats so far</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohel786&theme=default&&layout=compact" alt="sohelshaikh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.netlify.app/api/top-langs/?username=sohel786&theme=default&&layout=compact" alt="sohelshaikh" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imbickydutta&" alt="imbickydutta" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imbickydutta&show_icons=true&locale=en&layout=compact" alt="imbickydutta" /></p>
 <p align="center">
