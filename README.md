@@ -32,7 +32,7 @@
  </div>
  <br />
  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sohel-786&show_icons=true&theme=default" width="47%"/> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sohel-786&show_icons=true&theme=vision-friendly-dark" width="47%"/> 
 </div>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
