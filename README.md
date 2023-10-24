@@ -28,7 +28,7 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 
 ## GitHub Analytics
-<div>
+<div style="display:flex;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="46%"/>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sohel-786&theme=vision-friendly-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
  </div>
