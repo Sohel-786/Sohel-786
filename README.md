@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center" style="color:white">Hi There 👋, I'm Sohel Shaikh</h1>
-<span align="center">I'm Full Stack Web Developer, a passionate coder, and capable of writing efficient code using MERN Stack.</span>
+  <font align="center" size="6"
+          face="arial" 
+          color="#008000">
+        I'm Full Stack Web Developer, a passionate coder, and capable of writing efficient code using MERN Stack.
+    </font>
 
 ## 🔗 Links
 
