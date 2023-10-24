@@ -29,7 +29,7 @@
 
 ## GitHub Analytics
 <div style="display:flex;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="46%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="40%"/>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sohel-786&theme=vision-friendly-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
  </div>
 <p align="center">
