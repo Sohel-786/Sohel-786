@@ -4,13 +4,14 @@
 <h1 align="center">Hi There 👋, I'm Sohel Shaikh</h1>
 <h3 align="center">I'm Full Stack Web Developer, a passionate coder, and capable of writing efficient code using MERN Stack.</h3>
 
-<!-- ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() -->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
 
 <h2 align="left">Let's Connect</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/sohel-shaikh-8ba7a9110/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bicky-dutta-8a851a19b" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="mailto:sohel.shaikh27100@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="bicky-dutta-8a851a19b" height="50" width="50"/></a>
 </p>
 
 <h2 align="left">Tech Stack</h2>
@@ -25,15 +26,12 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
-<h2 align="left">👷 Stats so far</h2>
+
+## GitHub Analytics
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="46%"/>
     <img align="right" alt="SohelShaikh" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohel-786&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" width="51%" height='100%'/>
  </div>
- <br />
- <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sohel-786&show_icons=true&theme=vision-friendly-dark" width="47%"/> 
-</div>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
