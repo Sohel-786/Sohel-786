@@ -11,7 +11,7 @@
 <h2 align="left">Let's Connect</h2>
 <p align="left" justify="center">
 <a href="https://www.linkedin.com/in/sohel-shaikh-8ba7a9110/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bicky-dutta-8a851a19b" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="mailto:sohel.shaikh27100@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="bicky-dutta-8a851a19b" height="50" width="50"/></a>
+<a href="mailto:sohel.shaikh27100@gmail.com" target="_blank"><img align='bottom' src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="bicky-dutta-8a851a19b" height="50" width="50"/></a>
 </p>
 
 <h2 align="left">Tech Stack</h2>
