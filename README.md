@@ -26,9 +26,14 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 <h2 align="left">👷 Stats so far</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.netlify.app/api/top-langs/?username=sohel786&theme=default&&layout=compact" alt="sohelshaikh" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imbickydutta&" alt="imbickydutta" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imbickydutta&show_icons=true&locale=en&layout=compact" alt="imbickydutta" /></p>
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek1117&theme=default&&layout=compact" width="47%"/>
+    <img align="right" alt="SohelShaikh" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohel-786&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="47%"/>
+ </div>
+ <br />
+ <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Malek1117&show_icons=true&theme=default" width="47%"/> 
+</div>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
