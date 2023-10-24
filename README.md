@@ -5,9 +5,11 @@
 <h3 align="center">I'm Full Stack Web Developer, a passionate coder, and capable of writing efficient code using MERN Stack.</h3>
 
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shaikhsohel.netlify.app)
 
 <h2 align="left">Tech Stack</h2>
+
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
@@ -21,6 +23,7 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 
 ## GitHub Analytics
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="40%"/>&nbsp;&nbsp;&nbsp;
     <a align="center" href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sohel-786&theme=vision-friendly-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="55%" /></a>
