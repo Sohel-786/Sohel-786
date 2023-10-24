@@ -27,7 +27,7 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://shaikhsohel.netlify.app/assets/icons/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 <h2 align="left">👷 Stats so far</h2>
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="48%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="46%"/>
     <img align="right" alt="SohelShaikh" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohel-786&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" width="51%" height='100%'/>
  </div>
  <br />
