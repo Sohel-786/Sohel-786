@@ -28,7 +28,7 @@
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohel-786&layout=compact&theme=vision-friendly-dark" width="40%"/>&nbsp;&nbsp;&nbsp;
-    <a align="center" href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sohel-786&theme=vision-friendly-dark" alt="GitHub Streak" width="55%" /></a>
+    <a align="center" href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sohel-786" alt="GitHub Streak" width="55%" /></a>
  </p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
